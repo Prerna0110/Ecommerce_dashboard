@@ -37,4 +37,4 @@ Comparative analysis of quantity vs revenue by product category
 Data-driven decision-making for sales and inventory strategies
 
 5.Screenshots:
-[Dashboard_preview](https://github.com/Prerna0110/Ecommerce_dashboard/blob/main/Dashboard_Snapshot.png)
+![Dashboard_preview](https://github.com/Prerna0110/Ecommerce_dashboard/blob/main/Dashboard_Snapshot.png)
