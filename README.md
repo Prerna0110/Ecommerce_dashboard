@@ -1,5 +1,6 @@
 # Ecommerce_dashboard
 1. Project Overview:
+
 This Power BI dashboard provides an interactive analysis of Madhav Ecommerce Sales Data, highlighting key business performance metrics such as sales amount, profit, and quantity sold. The goal is to help business stakeholders monitor KPIs, identify top-performing categories, and understand sales distribution across customers, categories, and time periods.
 
 2. Key Insights & Features:
